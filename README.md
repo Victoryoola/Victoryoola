@@ -42,18 +42,7 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoryoola&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoryoola&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoryoola&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=victoryoola&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
@@ -66,7 +55,7 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Victoryoola/Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
 
 </div>
 
@@ -79,13 +68,6 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eriangel10@gmail10.com)
 
 </div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
 
 ---
 
