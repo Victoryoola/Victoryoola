@@ -50,7 +50,7 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<div>
 
 [![Auth System](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
 
