@@ -1,7 +1,7 @@
 # Hi there, I'm Ayoola Victor Oluwafemi👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -42,31 +42,31 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victoryoola&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoryoola&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoryoola&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=victoryoola&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victoryoola&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_1&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Victoryoola/Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
 
 </div>
 
@@ -86,11 +86,6 @@ My work focuses on performance, scalability, and clean architecture — ensuring
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-## � Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
 
 ---
 
