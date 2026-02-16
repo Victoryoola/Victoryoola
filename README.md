@@ -56,6 +56,8 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 
 </div>
 
+**Auth System** - A backend-driven authentication security system that dynamically evaluates login risk signals and adjusts user access levels based on trust scores, device familiarity, and verification outcomes.
+
 ## 🤝 Connect with Me
 
 <div align="center">
