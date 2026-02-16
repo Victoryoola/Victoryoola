@@ -1,8 +1,5 @@
 # Hi there, I'm Ayoola Victor Oluwafemi👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+# Welcome to my GitHub Profile
 
 ## 🚀 About Me
 
@@ -55,7 +52,7 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=https://github.com/Victoryoola/Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/Auth-System)
 
 </div>
 
