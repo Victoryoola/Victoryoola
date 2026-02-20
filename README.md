@@ -62,6 +62,22 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 
 **Auth System** - A backend-driven authentication security system that dynamically evaluates login risk signals and adjusts user access levels based on trust scores, device familiarity, and verification outcomes.
 
+<div>
+
+[![Task Management API](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/taskmanager)
+
+</div>
+
+**Task Management API** - A RESTful API built with Express.js and MongoDB for managing tasks with full CRUD operations, input validation, and comprehensive error handling.
+
+<div>
+
+[![Book Management API](https://github-readme-stats.vercel.app/api/pin/?username=victoryoola&repo=Auth-System&theme=radical&hide_border=true)](https://github.com/Victoryoola/bookManagement-API)
+
+</div>
+
+**Book Management API** - A RESTful API built with Express.js and MongoDB for managing books with full CRUD operations, input validation, and comprehensive error handling.
+
 ## 🤝 Connect with Me
 
 <div align="center">
