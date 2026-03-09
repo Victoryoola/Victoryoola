@@ -9,12 +9,12 @@ I help startups, tech companies, and product owners build strong backend foundat
 
 My work focuses on performance, scalability, and clean architecture — ensuring that what users don't see works flawlessly. I thrive on solving complex problems, optimizing systems, and collaborating with teams to deliver dependable technology foundations.
 
-- 😄 Pronouns: he/him 
 - 💼 Availability: Open to opportunities for fulltime / part-time / contract-based backend roles
+- 🚀 Core Focus: Scalable backend systems
 - 🔭 I'm currently working on understanding Best Practices and System Architectural Design
 - 🌱 I'm currently learning PHP
-- 👯 I'm looking to collaborate on Backend projects or products
-- ⚡ Fun fact: I'm a cat guy and I love movies
+- 👯 
+- 🤝 Let's Talk
 
 ## 🛠️ Tech Stack
 
@@ -39,18 +39,6 @@ My work focuses on performance, scalability, and clean architecture — ensuring
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoryoola&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victoryoola&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
 ## 🎯 Featured Projects
 
