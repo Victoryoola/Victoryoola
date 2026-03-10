@@ -45,7 +45,6 @@ I am always thrilled to use my skills to solve problems. Your problem can be the
 ### 🔐 Auth System
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/Auth-System)
 [![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://your-auth-system.onrender.com)
-[![API Docs](https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=flat-square&logo=swagger)](https://your-auth-system.onrender.com/api-docs)
 
 A backend-driven authentication security system that dynamically evaluates login risk signals and adjusts user access levels based on trust scores, device familiarity, and verification outcomes.
 
@@ -55,8 +54,8 @@ A backend-driven authentication security system that dynamically evaluates login
 
 ### ✅ Task Management API
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/taskmanager)
-[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://your-task-api.onrender.com)
-[![API Docs](https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=flat-square&logo=swagger)](https://your-task-api.onrender.com/api-docs)
+[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://taskmanagement-api-smmy.onrender.com/)
+
 
 A RESTful API built with Express.js and MongoDB for managing tasks with full CRUD operations, input validation, and comprehensive error handling.
 
@@ -66,14 +65,13 @@ A RESTful API built with Express.js and MongoDB for managing tasks with full CRU
 
 ### 📚 Book Management API
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/bookManagement-API)
-[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://your-book-api.onrender.com)
-[![API Docs](https://img.shields.io/badge/Swagger-API_Docs-85EA2D?style=flat-square&logo=swagger)](https://your-book-api.onrender.com/api-docs)
+[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://bookmanagement-api-b8ds.onrender.com/)
 
 A RESTful API built with Express.js and MongoDB for managing books with full CRUD operations, input validation, and comprehensive error handling.
 
 **Tech Stack:** Node.js • Express • MongoDB • Validation Middleware
 
-## 🤝 Connect with Me
+## 🤝 Contact Me
 
 <div align="center">
 
