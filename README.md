@@ -44,7 +44,6 @@ I am always thrilled to use my skills to solve problems. Your problem can be the
 
 ### 🔐 Auth System
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/Auth-System)
-[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://your-auth-system.onrender.com)
 
 A backend-driven authentication security system that dynamically evaluates login risk signals and adjusts user access levels based on trust scores, device familiarity, and verification outcomes.
 
