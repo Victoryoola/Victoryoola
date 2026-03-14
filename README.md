@@ -52,24 +52,12 @@ A backend-driven authentication security system that dynamically evaluates login
 
 ---
 
-### ✅ Task Management API
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/taskmanager)
-[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://taskmanagement-api-smmy.onrender.com/)
+### 📚 Pre-Bill
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/pre-bill)
 
+This is a custom notification system that improves subscription plan transparency. It drives customer satisfaction with transparent subscription plans. Prebill reduces chargebacks and refunds from customers. No surprise charges to users. 
 
-A RESTful API built with Express.js and MongoDB for managing tasks with full CRUD operations, input validation, and comprehensive error handling.
-
-**Tech Stack:** Node.js • Express • MongoDB • Jest
-
----
-
-### 📚 Book Management API
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Victoryoola/bookManagement-API)
-[![Deployment](https://img.shields.io/badge/Render-Live-46E3B7?style=flat-square&logo=render)](https://bookmanagement-api-b8ds.onrender.com/)
-
-A RESTful API built with Express.js and MongoDB for managing books with full CRUD operations, input validation, and comprehensive error handling.
-
-**Tech Stack:** Node.js • Express • MongoDB • Validation Middleware
+**Tech Stack:** Node.js • Express • PostgreSQL • TypeScript
 
 ## 🤝 Contact Me
 
